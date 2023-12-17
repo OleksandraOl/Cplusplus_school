@@ -1,0 +1,15 @@
+﻿  DisplayMenu.cpp
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\DisplayMenu.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\ReadFromFile.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\DisplayMenu.cpp(112,16): warning C4018: '<': signed/unsigned mismatch
+  GroceryItemMap.cpp
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\GroceryItemMap.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\GroceryItemMap.cpp(68,16): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\ReadFromFile.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ReadFromFile.cpp
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\ReadFromFile.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\ReadFromFile.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\Corner_Grocer_item_tracking\ReadFromFile.cpp(37,27): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  Corner_Grocer_item_tracking.vcxproj -> C:\Users\Lenovo\Desktop\Corner_Grocer_item_tracking\x64\Debug\Corner_Grocer_item_tracking.exe
